@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+E:\大学相关\c++\习题\期末考试模拟题二\反转再反转\FileName.cpp(50,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\大学相关\c++\习题\期末考试模拟题二\反转再反转\FileName.cpp(52,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  反转再反转.vcxproj -> E:\大学相关\c++\习题\期末考试模拟题二\反转再反转\x64\Debug\反转再反转.exe

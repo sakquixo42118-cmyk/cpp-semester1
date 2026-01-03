@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u5927\u5B66\u76F8\u5173\\c\u002B\u002B\\\u4E60\u9898\\\u671F\u672B\u8003\u8BD5\u6A21\u62DF\u9898\u4E8C\\\u53CD\u8F6C\u518D\u53CD\u8F6C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C70436F-3550-4605-9A8F-B0B991AB6B8A}|\u53CD\u8F6C\u518D\u53CD\u8F6C.vcxproj|E:\\\u5927\u5B66\u76F8\u5173\\c\u002B\u002B\\\u4E60\u9898\\\u671F\u672B\u8003\u8BD5\u6A21\u62DF\u9898\u4E8C\\\u53CD\u8F6C\u518D\u53CD\u8F6C\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C70436F-3550-4605-9A8F-B0B991AB6B8A}|\u53CD\u8F6C\u518D\u53CD\u8F6C.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual studio\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "D:\\visual studio\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "D:\\visual studio\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHQHAAAAAAAAAAAuwIoHAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-11T03:12:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "E:\\\u5927\u5B66\u76F8\u5173\\c\u002B\u002B\\\u4E60\u9898\\\u671F\u672B\u8003\u8BD5\u6A21\u62DF\u9898\u4E8C\\\u53CD\u8F6C\u518D\u53CD\u8F6C\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "E:\\\u5927\u5B66\u76F8\u5173\\c\u002B\u002B\\\u4E60\u9898\\\u671F\u672B\u8003\u8BD5\u6A21\u62DF\u9898\u4E8C\\\u53CD\u8F6C\u518D\u53CD\u8F6C\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T02:37:45.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

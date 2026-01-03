@@ -1,0 +1,27 @@
+# C++ build
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+
+# VS / VSCode
+.vs/
+.vscode/
+*.suo
+*.user
+*.VC.db
+*.VC.VC.opendb
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# system
+.DS_Store
+Thumbs.db
